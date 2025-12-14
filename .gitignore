@@ -5,3 +5,6 @@
 !.gitignore
 !操作教程/
 !操作教程/**
+!教程.docx
+!LICENSE.txt
+!icon.png
