@@ -1,7 +1,8 @@
 # Ask Continue - Windsurf对话持续工具
 
 AI对话持续工具：智能提示词增强（结合上下文和内存记忆）、账号管理无感切号、内置MCP服务器、音效提醒、跨平台支持。
-免费一天试用授权码：B8X4-GD7T-JNH5-CS9B-DYN2-MRP2、B8X4-GD7T-JNH5-CS3J-F7A9-DQ3S、B8X4-LD7T-JWH5-CTQW-TKVJ-8SHW。
+
+👤免费一天试用授权码：B8X4-GD7T-JNH5-CS9B-DYN2-MRP2、B8X4-GD7T-JNH5-CS3J-F7A9-DQ3S、B8X4-LD7T-JWH5-CTQW-TKVJ-8SHW。
 
 ## 功能特性
 
