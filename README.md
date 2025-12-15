@@ -1,5 +1,3 @@
-<img width="533" height="1270" alt="第一步：了解扩展结构" src="https://github.com/user-attachments/assets/bd193303-2d8c-4b6a-847c-4975a7faa233" /># Ask Continue - Windsurf对话持续工具
-
 AI对话持续工具：智能提示词增强（结合上下文和内存记忆）、**队列模式连续对话**、账号管理无感切号、重置机器码、内置MCP服务器、音效提醒、跨平台支持。
 
 👤免费一天试用授权码：AAA6-5V5J-J7H4-SXHA-9XGW-L3SA、AAA6-A2L2-PP39-2M9G-MNBZ-VP2A
