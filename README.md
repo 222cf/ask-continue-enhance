@@ -1,6 +1,4 @@
-# Ask Continue - Windsurf对话持续工具
-
-AI对话持续工具：智能提示词增强（结合上下文和内存记忆）、**队列模式连续对话**、账号管理无感切号、重置机器码、内置MCP服务器、音效提醒、跨平台支持。
+AI对话持续工具：智能提示词增强（结合上下文和内存记忆）、**队列模式连续对话**、账号管理无感切号、重置机器码、内置MCP服务器、音效提醒、跨平台支持。基于开源项目深度二次开发的插件，已保留原作者的版权信息。
 
 👤免费一天试用授权码：AAA6-5V5J-J7H4-SXHA-9XGW-L3SA、AAA6-A2L2-PP39-2M9G-MNBZ-VP2A
 
@@ -33,6 +31,11 @@ AI对话持续工具：智能提示词增强（结合上下文和内存记忆）
 - 🖼️ 支持上传图片（截图粘贴、文件选择）
 - 🖥️ 内置 MCP 服务器（HTTP + stdio 双模式）
 - 🌍 跨平台支持（Windows、Linux、macOS）
+
+## 部分截图
+<img width="533" height="1270" alt="第一步：了解扩展结构" src="https://github.com/user-attachments/assets/537ee417-dfd9-46e0-948e-a151139007df" />
+<img width="742" height="988" alt="第五步：了解继续对话框结构" src="https://github.com/user-attachments/assets/39c58539-760a-4692-b9e2-2f36a98cff6e" />
+<img width="811" height="1008" alt="第七步：队列可持续对话面板" src="https://github.com/user-attachments/assets/5440f7c3-4910-4952-b507-504cea7644ec" />
 
 ## 系统要求
 
