@@ -3,6 +3,5 @@
 !README.md
 !*.vsix
 !.gitignore
-!教程.docx
-!LICENSE.txt
-!icon.png
+!操作教程/
+!操作教程/**
